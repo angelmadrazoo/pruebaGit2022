@@ -7,4 +7,7 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 1 git clone
-2
+22 add
+23 commit
+24 checkout master
+25 recursiva
