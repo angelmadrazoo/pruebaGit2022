@@ -7,4 +7,12 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 1 git clone
-2
+7 add
+8 commit
+9 checkout historia001
+10 editar
+13 add
+14 commit
+15 checkout hisotria001
+16 stash apply
+17 editar
