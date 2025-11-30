@@ -7,4 +7,9 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 1 git clone
-2
+2 edit bitacora
+3 branch historia000
+4 brancj historia001
+5 checkout hisotria000
+6-editar
+7-
