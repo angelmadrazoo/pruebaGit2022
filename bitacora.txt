@@ -7,6 +7,25 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 1 git clone
+2 edit bitacora
+3 branch historia000
+4 brancj historia001
+5 checkout hisotria000
+6-editar
+7 add
+8 commit
+9 checkout historia001
+10 editar
+12 git stash + checkout
+13 add
+14 commit
+15 checkout hisotria001
+16 stash apply
+17 editar
+18 add
+19 commit
+20 merge --no-ff Hisotria1
+21 EDITAR
 22 add
 23 commit
 24 checkout master
@@ -15,3 +34,7 @@
 27 git tag respuestapreguntas
 28 git push origin main git push tags
 29 editar
+30 add +commit
+31 git merge --no-ff hisotria001
+32 recursvia
+33 add +commit git push origin main
