@@ -11,3 +11,7 @@
 23 commit
 24 checkout master
 25 recursiva
+26 add+commit
+27 git tag respuestapreguntas
+28 git push origin main git push tags
+29 editar
