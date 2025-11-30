@@ -12,4 +12,4 @@
 4 brancj historia001
 5 checkout hisotria000
 6-editar
-
+12 git stash + checkout
